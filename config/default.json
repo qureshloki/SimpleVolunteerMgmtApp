@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": null,
+  "db": null,
+  "port": "3900",
+  "requiresAuth": true
+}

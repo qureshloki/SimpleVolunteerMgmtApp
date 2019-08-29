@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "ql_volunteer_app_be_jwtPrivateKey",
+  "db": "ql_volunteer_app_be_db"
+}
